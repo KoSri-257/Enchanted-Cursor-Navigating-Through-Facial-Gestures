@@ -1,0 +1,1 @@
+"C:\Users\HOME\AppData\Local\Programs\Python\Python312\python.exe" "C:\Users\HOME\Desktop\Projects\IOMP\new\lock_unlock_face_recognition.py"
